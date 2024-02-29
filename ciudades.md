@@ -5,4 +5,5 @@
 3. Pueblo Paleta
 4. San Manuel
 5. San Juan
-6. La planeta
+6. Villanueva
+7. San Pedro Sula
