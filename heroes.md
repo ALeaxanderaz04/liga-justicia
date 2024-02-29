@@ -8,3 +8,6 @@
 * Robin
 * Hulk
 * Ciclope
+* Maluna
+* X
+* 4 fanstastic
