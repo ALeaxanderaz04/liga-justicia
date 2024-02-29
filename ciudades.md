@@ -4,3 +4,4 @@
 2. Metrópolis
 3. Pueblo Paleta
 4. San Manuel
+5. San Juan
